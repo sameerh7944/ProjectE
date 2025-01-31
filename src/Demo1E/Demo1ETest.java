@@ -15,7 +15,7 @@ public static void main(String[]args) {
         if (letter == 'A') {
             System.out.println("Letter is A");
         }
-
+//this is pull practice
         if (isActive) {
             System.out.println("The variable isActive is true");
         }
